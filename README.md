@@ -10,7 +10,7 @@ offset = content + padding*2 + border*2
 clientWidth/Height: border内围的范围（房子内部范围）
 
 ```
-offset = content + padding*2
+clientOffset = content + padding*2
 ```
 
 Open `index.html` in your browser.
